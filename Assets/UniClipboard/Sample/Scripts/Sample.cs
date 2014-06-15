@@ -6,18 +6,18 @@ public class Sample : MonoBehaviour {
 
 	void OnGUI()
 	{
-		GUI.Box(new Rect(10,10,200,140), "UniClipboard Test");
+		GUI.Box(new Rect(10,10,320,280), "UniClipboard Test");
 
-		if(GUI.Button(new Rect(20,40,150,20), "Copy"))
+		if(GUI.Button(new Rect(20,40,300,60), "Copy"))
 		{
 			UniClipboard.value = "Hello, UniClipboard!";
 		}
 
-		if(GUI.Button(new Rect(20,70,150,20), "Paste"))
+		if(GUI.Button(new Rect(20,120,300,60), "Paste"))
 		{
 			clipboardValue = UniClipboard.value;
 		}
 
-		GUI.Label(new Rect(30,90,200,80), clipboardValue);
+		GUI.Label(new Rect(20,200,400,100), clipboardValue);
 	}
 }
