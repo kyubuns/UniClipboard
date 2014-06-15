@@ -1,1 +1,3 @@
-Unity Clipboard
+UniClipboard
+
+support PC/Mac/iOS
