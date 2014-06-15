@@ -1,0 +1,15 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+Assets/Develop/*
+Assets/Develop.meta
+XCodeProject
+*.pidb
+*.unityproj
+*.csproj
+*.sln
+*.userprefs
+*.DS_Store
+*.swp
+*.swo
+*.un~
