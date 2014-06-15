@@ -1,0 +1,12 @@
+﻿
+{
+	"group": "UniClipboard",
+	"libs": [],
+	"frameworks": ["Accounts.framework", "Social.framework"],
+	"headerpaths": [],
+	"files": [],
+	"folders": ["Plugins/iOS/"],
+	"excludes": ["^.*.DS_Store$","^.*.meta$"],
+	"buildSettings": {
+	}
+}
