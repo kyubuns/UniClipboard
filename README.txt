@@ -3,6 +3,9 @@ UniClipboard
 
 Clipboard for Unity ( support PC/Mac/iOS )
 
+master -> Unity5.2対応済み
+Unity5.1以前の方はunity5.1ブランチをご使用ください。
+
 LICENCE
 ==========
 
