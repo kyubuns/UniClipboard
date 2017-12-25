@@ -1,3 +1,6 @@
+↓作り直しました。
+https://github.com/kyubuns/UniClipboard20xx
+
 UniClipboard
 ============
 
